@@ -19,8 +19,27 @@ The aim is to create ecosystem accounts that track annual changes to Hawaiian ec
 
 -   Also, some functional groups (eg. Tropical/Subtropical lowland rainforests) are better studied than others (eg. Anchialine caves)
 
+------------------------------------------------------------------------
+
+## Ecosystem Extent
+
 -   Our pilot ecosystem extent accounts cover broadly 12/ 42 EFG that exist in the MHI, for years 2013, 2016, 2019.
 
--   While pilot ecosystem condition accounts show changes to tree cover ecosystem type based on four condition variables- area burnt, rainfall, temperature, and NDVI- for years 2013, 2016, and 2019.
+::: columns
+::: {.column width="50%"}
+![](images/tree_chge.png)
+:::
 
-## Extents
+::: {.column width="50%"}
+![](images/Tree%20Cover2013_2019_map.png)
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Ecosystem Conditions
+
+-   Pilot ecosystem condition accounts show changes to tree cover ecosystem type based on four condition variables- area burnt, rainfall, temperature, and NDVI- for years 2013, 2016, and 2019.
+
+![](images/tree_rain-01.png){style="display:block; margin:auto; max-height:400px;"}
+
