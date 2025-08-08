@@ -10,7 +10,7 @@
 <link href="EcoAcct_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.3.310">
 
-  <title>EcoAcct</title>
+  <title>Ecosystem Accounting in Hawaiʻi</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -324,32 +324,30 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">EcoAcct</h1>
+  <h1 class="title">Ecosystem Accounting in Hawaiʻi</h1>
+  <p class="subtitle">Louis Chua</p>
 
 <div class="quarto-title-authors">
 </div>
 
 </section>
-<section id="quarto" class="slide level2">
-<h2>Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <a href="https://quarto.org/docs/presentations/" class="uri">https://quarto.org/docs/presentations/</a>.</p>
+<section id="introduction" class="slide level2">
+<h2>Introduction</h2>
+<p>This research applies international accounting frameworks and standards for Natural Capital Accounting in Hawaiʻi- The <a href="https://seea.un.org/ecosystem-accounting/">UN System of Environmental- Economic Accounts</a> and the <a href="https://iucn.org/resources/conservation-tool/iucn-global-ecosystem-typology">IUCN Global Ecosystem Typology (GET) 2.0.</a></p>
+<p>The aim is to create ecosystem accounts that track annual changes to Hawaiian ecosystems in a consistent way. This allows policy makers, conservation managers, and interested parties, to track and compare changes in ecosystem extents and conditions over time and across different geographies across the Main Hawaiian Islands.</p>
 </section>
-<section id="bullets" class="slide level2">
-<h2>Bullets</h2>
-<p>When you click the <strong>Render</strong> button a document will be generated that includes:</p>
+<section id="preliminary-findings" class="slide level2">
+<h2>Preliminary Findings</h2>
 <ul>
-<li>Content authored with markdown</li>
-<li>Output from executable code</li>
+<li><p>Ideally ecosystems are best classified by Ecosystem Functional Groups according to IUCN. However, multiple research and data limitations persist in Hawaiʻi.</p></li>
+<li><p>Crucially, most ecological/ biological research do not cover the entire area of the Main Hawaiian Islands (MHI) nor are they routinely updated over long periods of time.</p></li>
+<li><p>Also, some functional groups (eg. Tropical/Subtropical lowland rainforests) are better studied than others (eg. Anchialine caves)</p></li>
+<li><p>Our pilot ecosystem extent accounts cover broadly 12/ 42 EFG that exist in the MHI, for years 2013, 2016, 2019.</p></li>
+<li><p>While pilot ecosystem condition accounts show changes to tree cover ecosystem type based on four condition variables- area burnt, rainfall, temperature, and NDVI- for years 2013, 2016, and 2019.</p></li>
 </ul>
 </section>
-<section id="code" class="slide level2">
-<h2>Code</h2>
-<p>When you click the <strong>Render</strong> button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<section id="extents" class="slide level2">
+<h2>Extents</h2>
 <div class="footer footer-default">
 
 </div>
@@ -565,44 +563,6 @@
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
