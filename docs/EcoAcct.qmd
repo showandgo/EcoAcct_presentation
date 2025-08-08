@@ -1,24 +1,26 @@
 ---
-title: "EcoAcct"
+title: "Ecosystem Accounting in Hawaiʻi"
+subtitle: "Louis Chua"
 format: revealjs
 editor: visual
 ---
 
-## Quarto
+## Introduction
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+This research applies international accounting frameworks and standards for Natural Capital Accounting in Hawaiʻi- The [UN System of Environmental- Economic Accounts](https://seea.un.org/ecosystem-accounting/) and the [IUCN Global Ecosystem Typology (GET) 2.0.](https://iucn.org/resources/conservation-tool/iucn-global-ecosystem-typology)
 
-## Bullets
+The aim is to create ecosystem accounts that track annual changes to Hawaiian ecosystems in a consistent way. This allows policy makers, conservation managers, and interested parties, to track and compare changes in ecosystem extents and conditions over time and across different geographies across the Main Hawaiian Islands.
 
-When you click the **Render** button a document will be generated that includes:
+## Preliminary Findings
 
--   Content authored with markdown
--   Output from executable code
+-   Ideally ecosystems are best classified by Ecosystem Functional Groups according to IUCN. However, multiple research and data limitations persist in Hawaiʻi.
 
-## Code
+-   Crucially, most ecological/ biological research do not cover the entire area of the Main Hawaiian Islands (MHI) nor are they routinely updated over long periods of time.
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+-   Also, some functional groups (eg. Tropical/Subtropical lowland rainforests) are better studied than others (eg. Anchialine caves)
 
-```{r}
-1 + 1
-```
+-   Our pilot ecosystem extent accounts cover broadly 12/ 42 EFG that exist in the MHI, for years 2013, 2016, 2019.
+
+-   While pilot ecosystem condition accounts show changes to tree cover ecosystem type based on four condition variables- area burnt, rainfall, temperature, and NDVI- for years 2013, 2016, and 2019.
+
+## Extents
