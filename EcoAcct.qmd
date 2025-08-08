@@ -39,7 +39,15 @@ The aim is to create ecosystem accounts that track annual changes to Hawaiian ec
 
 ## Ecosystem Conditions
 
--   Pilot ecosystem condition accounts show changes to tree cover ecosystem type based on four condition variables- area burnt, rainfall, temperature, and NDVI- for years 2013, 2016, and 2019.
+Pilot ecosystem condition accounts show changes to tree cover ecosystem type based on four condition variables for years 2013, 2016, and 2019-
 
-![](images/tree_rain-01.png){style="display:block; margin:auto; max-height:400px;"}
+1.  Area burnt;
+2.  Rainfall;
+3.  Temperature;
+4.  NDVI ("vegetation greenness")
 
+---
+
+## Rainfall Conditions
+
+![](images/tree_rain-02.png){fig-align="center"}
