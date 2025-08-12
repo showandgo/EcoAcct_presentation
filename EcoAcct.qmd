@@ -23,7 +23,82 @@ The aim is to create ecosystem accounts that track annual changes to Hawaiian ec
 
 ## Ecosystem Extent
 
-Our pilot ecosystem extent accounts cover broadly 12/ 42 EFG that exist in the MHI, for years 2013, 2016, 2019. Here are some highlights:
+Hawaiʻi is diverse! Our pilot ecosystem extent accounts only cover broadly 12/ **42** EFG that exist in the MHI, for years 2013, 2016, 2019.
+
+::: columns
+::: {.column width="45%"}
+::: {style="font-size: 0.45em; overflow-x: auto; max-width: 100%;"}
+| EFGs broadly included in accounts                  |
+|----------------------------------------------------|
+| T1.1 Tropical/Subtropical lowland rainforests      |
+| T1.2 Tropical/Subtropical dry forests and thickets |
+| T7.1 Annual croplands                              |
+| T7.2 Sown pastures and fields                      |
+| T7.3 Plantations                                   |
+| T7.5 Derived semi-natural pastures and old fields  |
+| T7.4 Urban and industrial ecosystems               |
+| M1.3 Photic coral reefs                            |
+| M1.6 Subtidal rocky reefs                          |
+| MFT1.3 Coastal saltmarshes and reedbeds            |
+| MT1.3 Sandy Shorelines                             |
+| MT2.1Coastal shrublands and grasslands             |
+:::
+:::
+
+::: {.column width="50%"}
+::: {style="font-size: 0.45em; overflow-x: auto; max-width: 100%;"}
+| Select EFGs NOT included in accounts              |
+|---------------------------------------------------|
+| T1.3 Tropical/Subtropical montane rainforests     |
+| T3.4 Young rocky pavements, lava flows and screes |
+| T4.2 Pyric tussock savannas                       |
+| M1.1 Seagrass meadows                             |
+| M1.5 Photo-limited marine animal forests          |
+| M1.7 Subtidal sand beds                           |
+| M1.8 Subtidal mud plains                          |
+| M3.1Continental and island slopes                 |
+| F2.9 Geothermal pools and wetlands                |
+| F3.2 Constructed lacustrine wetlands              |
+| S1.2 Endolithic systems                           |
+| SM1.1 Anchialine caves                            |
+| SM1.2 Anchialine pools                            |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+|                                                   |
+:::
+:::
+:::
+
+## Tree Cover Extent
+
+Here are some highlights:
 
 ::: columns
 ::: {.column width="45%"}
@@ -50,6 +125,36 @@ Pilot ecosystem condition accounts show changes to ecosystem types based on four
 
 ## Rainfall Conditions
 
-Here are some highlights for tree cover ecosystem type:
+Many Moku have seen significant drop in rainfall over the forests:
 
 ![](images/tree_rain-02.png){fig-align="center"}
+
+## Rainfall Conditions
+
+This graph calculates the difference in mean monthly rainfall (baseline vs. 2019) for tree cover ecosystem type:
+
+![](images/tree_rain_chge.png){fig-align="center"}
+
+## Temperature Conditions
+
+In forests, mean annual temnperatures have risen far more between 2013 to 2019 as compared to the baseline.
+
+![](images/tree_temp.png){fig-align="center"}
+
+## Temperature Conditions
+
+Large temperature increases were recorded primarily in the big island forests:
+
+![](images/tree_temp_chge.png){fig-align="center"}
+
+## NDVI Conditions
+
+Normalized Difference Vegetation Index (NDVI) makes use of the near-infrared and red bands of the EM spectrum to determine "greenness" of an area (ranging from -1 to 1). High values can mean denser vegetation:
+
+![](images/tree_ndvi.png){fig-align="center"}
+
+## NDVI Conditions
+
+Forests in central Maui appear to have negative scores compared to the baseline, while most moku have recorded increases in 2019 compared to the baseline:
+
+![](images/tree_ndvi_chge.png){fig-align="center"}
