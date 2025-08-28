@@ -17,7 +17,7 @@ The aim is to create ecosystem accounts that track annual changes to Hawaiian ec
 
 -   Crucially, most ecological/ biological research do not cover the entire area of the Main Hawaiian Islands (MHI) nor are they routinely updated over long periods of time.
 
--   Also, some functional groups (eg. Tropical/Subtropical lowland rainforests) are better studied than others (eg. Anchialine caves)
+-   In Hawaiʻi, some functional groups (eg. Tropical/Subtropical lowland rainforests) are better studied than others (eg. Anchialine caves)
 
 ------------------------------------------------------------------------
 
@@ -100,6 +100,8 @@ Hawaiʻi is diverse! Our pilot ecosystem extent accounts only cover broadly 12/ 
 
 Here are some highlights:
 
+Tree cover ecosystem type saw increases across most moku in the Main Hawaiian Islands (MHI).
+
 ::: columns
 ::: {.column width="45%"}
 ![](images/tree_chge.png)
@@ -112,7 +114,7 @@ Here are some highlights:
 
 ------------------------------------------------------------------------
 
-## Ecosystem Conditions
+## Ecosystem Conditions (Terrestrial)
 
 Pilot ecosystem condition accounts show changes to ecosystem types based on four condition variables for years 2013, 2016, and 2019-
 
@@ -123,21 +125,21 @@ Pilot ecosystem condition accounts show changes to ecosystem types based on four
 
 ------------------------------------------------------------------------
 
-## Rainfall Conditions
+## Rainfall Conditions (Tree Cover)
 
 Many Moku have seen significant drop in rainfall over the forests:
 
 ![](images/tree_rain-02.png){fig-align="center"}
 
-## Rainfall Conditions
+## Rainfall Conditions (Tree Cover)
 
-This graph calculates the difference in mean monthly rainfall (baseline vs. 2019) for tree cover ecosystem type:
+This graph calculates the difference in mean monthly rainfall- comparing baseline (1990-1992) to 2019 rainfall for tree cover ecosystem type:
 
 ![](images/tree_rain_chge.png){fig-align="center"}
 
-## Temperature Conditions
+## Temperature Conditions (Tree Cover)
 
-In forests, mean annual temnperatures have risen far more between 2013 to 2019 as compared to the baseline.
+In forests, mean annual temperatures have risen far more between 2013 to 2019 as compared to the baseline (1990-1992).
 
 ![](images/tree_temp.png){fig-align="center"}
 
@@ -155,6 +157,78 @@ Normalized Difference Vegetation Index (NDVI) makes use of the near-infrared and
 
 ## NDVI Conditions
 
-Forests in central Maui appear to have negative scores compared to the baseline, while most moku have recorded increases in 2019 compared to the baseline:
+Forests in central Maui appear to have negative scores compared to the baseline, while most moku have recorded increases in 2019 compared to the baseline (2001-2003):
 
 ![](images/tree_ndvi_chge.png){fig-align="center"}
+
+## Refining Tree Cover Ecosystem Type
+
+Currently, there is no comprehensive data on IUCN EFG T1.2 (Tropical/Subtropical dry forests and thickets) across the MHI. However, we can identify likely areas within tree cover ecosystem type by examining rainfall conditions. Taking rainfall patterns across tree cover in Kona, Oʻahu in 2013:
+
+![](images/tree_rain-03.png){fig-align="center"}
+
+## Dry Forests & Thickets EFG
+
+We can identify areas within the tree cover ecosystem type that has less than 1,800mm of annual rainfall and 3-6 consecutive months of \<100mm rainfall, that are likely dry forests & thickets.
+
+![](images/Screenshot%202025-08-27%20at%2013.14.19.png){fig-align="center"}
+
+## Dry Forests & Thickets EFG
+
+The ecosystem extent of this EFG changes over the years both from changes in extents of tree cover ecosystem type but also rainfall conditions. Although tree cover has increased over the years, its composition of dry forests has likely changed drastically.
+
+::: columns
+::: {.column width="45%"}
+![](images/tree_chge.png)
+:::
+
+::: {.column width="50%"}
+![](images/t1.2_chge.png)
+:::
+:::
+
+## Extinction Risk as LIFE Metric
+
+Many species are adapted to and dependent on a historic ("human absent") range and are affected by changes in current habitat in relation to that historic range. The LIFE metric lets us calculate a comparable and scalable extinction risk across species, space and time [(Eyres et al., 2025)](https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0327).
+
+## LIFE Metric (EFG T1.2)
+
+In this example, we use our ecosystem extent accounts to study modern changes in relation to historic ("human absent") EFG T1.2 maps provided by IUCN. We focus on Kau, Hawaiʻi Island since it is the moku with the largest historic extent of dry forests and thickets.
+
+![](images/Screenshot%202025-08-27%20at%2013.40.51.png){fig-align="center"}
+
+## EFG T1.2 in Kau
+
+We see that Kau moku has seen the largest proportionate decrease in EFG T1.2 compared to other moku in the MHI, due to relatively wetter conditions.
+
+![](images/mapt1.2_chge.png){fig-align="center"}
+
+## EFG T1.2 in Kau from 2013 to 2019
+
+Even though Kau had the second largest increase in tree cover ecosystem type across moku in the MHI. It had the steepest decline in EFG T1.2, due to wetter conditions. The maps (left to right) below show its historic range, 2013 extent, and 2019 extent.
+
+::: columns
+::: {.column width="45%"}
+![](images/Screenshot%202025-08-27%20at%2013.58.51.png)
+:::
+
+::: {.column width="50%"}
+![](images/Screenshot%202025-08-27%20at%2013.59.02.png)
+:::
+:::
+
+## LIFE Score Calculation
+
+The LIFE score, which considers changes in suitable habitat (within historic range; in the numerator) as well as its historic extents (in denominator) can then be computed according to Eyres et al., (2025)-
+
+$$
+\left(\frac{54.41}{1338.24}\right)^{0.25}-\left(\frac{108.48}{1338.24}\right)^{0.25}\approx -0.08 
+$$
+
+## Ease of Comparison
+
+LIFE scores can be easily compared and summed. For example, a similar analysis was done for EFG T1.2 in **Kona, Oʻahu** from 2013 to 2019, resulting in a positive **LIFE score of 0.07**. If we sum Kona, Oʻahu and Kau, Hawaiʻi's score (-0.08), the **overall score is -0.01**. Showing that overall extinction risk for species dependent on EFG T1.2 increased when both moku are aggregated.
+
+## Questions/ Curious to learn more?
+
+Reach out to Louis (louiscbc\@hawaii.edu)😉
