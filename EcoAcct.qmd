@@ -175,14 +175,17 @@ We can identify areas within the tree cover ecosystem type that has less than 1,
 
 ## Dry Forests & Thickets EFG
 
-The ecosystem extent of this EFG changes over the years both from changes in extents of tree cover ecosystem type but also rainfall conditions. Although tree cover has increased over the years, its composition of dry forests has likely changed drastically.
+The ecosystem extent of this EFG changes over the years both from changes in extents of tree cover ecosystem type but also rainfall conditions. 
+
+## Dry Forests & Thickets EFG
+Although tree cover has increased over the years, its composition of dry forests has likely changed drastically.
 
 ::: columns
-::: {.column width="35%"}
+::: {.column width="50%"}
 ![](images/tree_chge.png)
 :::
 
-::: {.column width="35%"}
+::: {.column width="50%"}
 ![](images/t1.2_chge.png)
 :::
 :::
