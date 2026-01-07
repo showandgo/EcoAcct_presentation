@@ -21,3 +21,7 @@ Mahalo!
 ## Rainfall in Heʻeia Ahupuaʻa Forests
 
 ![](images/tree_rain_HEEIA.png){fig-align="center"}
+
+## Annual averages for each year
+
+![](images/ann_tree_rain_HEEIA.png){fig-align="center"}
