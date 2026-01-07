@@ -3,6 +3,7 @@ title: "Heʻeia Ahupuaʻa Ecosystems"
 subtitle: ""
 format: revealjs
 editor: visual
+output-dir: docs
 ---
 
 ## Attention
