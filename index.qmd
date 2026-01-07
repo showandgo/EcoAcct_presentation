@@ -1,9 +1,11 @@
 ---
 title: "Heʻeia Ahupuaʻa Ecosystems"
 subtitle: ""
-format: revealjs
-editor: visual
-output-dir: docs
+format: 
+  revealjs:
+    theme: simple
+    scrollable: true
+    slide-number: true
 ---
 
 ## Attention
