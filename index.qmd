@@ -25,7 +25,10 @@ Mahalo!
 ![](images/tree_rain_HEEIA.png)
 Recent years 2023, 2025 show very low rainfall from Aug to Oct.
 
+Flashier rainfall mean less infiltration and groundwater recharge, as small/ medium storms produce relatively small amounts of runoff and disproportionately large amounts of infiltration.
+
 ## Annual averages for each year
 
 ![](images/ann_tree_rain_HEEIA.png)
+Overall rainfall is falling in forested areas (good recharge areas). 
 Note, 2023 is the only La Nina year. 
